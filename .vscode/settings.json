@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "src/main/java"
+    ],
+
+    "java.test.config": {
+        "name": "testConfiguration",
+        "workingDirectory": "${workspaceFolder}",
+        "args": [],
+        "vmargs": [],
+        "env": {},
+        "preLaunchTask": "",
+        "sourcePaths": ["src/test/java"],
+        "classPaths": [],
+        "modulePaths": [],
+        "projectName": "highnote-interview"
+      }
+}
